@@ -5,6 +5,6 @@
 - Information Technology Student at Ho Chi Minh University of Science 
 
 ## Interest
-- 🌱 Dive deep into data
+- 🌱 Data Digger
 - 🤔 Cryptography
 - 💬 AI modelling and Prompt Engineering 
